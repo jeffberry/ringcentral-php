@@ -27,7 +27,7 @@
     "php": ">=5.3.29",
     "ringcentral/psr7": "^1.2.0",
     "pubnub/pubnub": "~3.7",
-    "symfony/event-dispatcher": "^2.7"
+    "symfony/event-dispatcher": "^3.0.5"
   },
   "require-dev": {
     "phpunit/phpunit": "*",
